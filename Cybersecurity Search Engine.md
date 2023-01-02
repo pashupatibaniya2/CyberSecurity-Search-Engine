@@ -1,7 +1,7 @@
 # Cybersecurity Search Engine
 A collection of list of Best Cybersecurity Search Engine I have came across and found useful so far
 
-1. DeHashed—View leaked credentials. (https://dehashed.com)
+1. DeHashed—View leaked credentials.
 2. SecurityTrails—Extensive DNS data.
 3. DorkSearch—Really fast Google dorking.
 4. ExploitDB—Archive of various exploits.
